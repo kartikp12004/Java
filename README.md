@@ -1,2 +1,2 @@
 # Java
-A Java repoditory.
+A Java reposetory
